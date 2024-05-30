@@ -3,9 +3,9 @@ const axios = require('axios');
 const registrationUrl = "http://20.244.56.144/test/register";
 const registrationData = {
     "companyName": "goMart",
-    "ownerName": "Rahul",
-    "rollNo": "1",
-    "ownerEmail": "rahul@abc.edu",
+    "ownerName": "Thirukkumaran D",
+    "rollNo": "927621BIT119",
+    "ownerEmail": "dthirukkumaran28@gmail.com",
     "accessCode": "sFmNjQ"  
 };
 
